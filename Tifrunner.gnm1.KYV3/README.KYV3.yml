@@ -1,0 +1,54 @@
+identifier: KYV3
+
+provenance: The files in this directory are considered the primary instances, but they are also initial assembly versions, prior to deposition into GenBank - which will then become the primary, authoritative instances. The files here are held as part of the PeanutBase, LegumeInfo, and LegumeFederation projects. Please also see the associated usage_policy.txt Briefly: By accessing these data, you agree not to publish any articles containing analyses of genes or genomic data on a whole genome or chromosome scale prior to publication by the PGC and/or its collaborators of a comprehensive genome analysis ("Reserved Analyses"). See what is considered Reserved Analyses in the usage policy.
+
+source: https://peanutbase.org/data/ and mirrored at LegumeInfo, LegumeFederation, and CyVerse
+
+subject: Genome assembly
+
+related_to: The genome assembly has been deposited in GenBank, but has not yet been released there as of late 2017. Changes are possible between assemblies in this repository and the GenBank instance.
+
+scientific_name: Arachis hypogaea
+
+taxid: 3818
+
+bioproject: PRJNA291488
+
+scientific_name_abbrev: arahy
+
+genotype: Tifrunner
+
+description: Genome assembly for Arachis hypogaea cultivar Tifrunner. A total of 48.25x of PACBIO sequence (avg. read length of 11,525) was used to generate the initial MECAT assembly, which was subsequently polished using ARROW. Synteny with the diploid A. duranensis and A. ipaensis, along with 1 genetic map and 2 synthetic maps (provided by David Bertioli) were used to identify misjoins in the raw assembly. A total of 856 breaks were identified. The broken assembly was then scaffolded using HiC data by Rajeev Varshney. Post scaffolding, 6 additional breaks were made to resolve misjoins introduced during the scaffolding procedure. Seven tetrasomic regions were identified and duplicated, as described in the original README file. Additionally, homozygous SNPs and INDELs were corrected in the release sequence using ~40x of illumina reads (2x250, 800bp insert, library ID ICIH and ICID). See the original README file for additional details.
+
+dataset_doi: none
+
+genbank_accession: PIVG00000000
+
+original_file_creation_date: 2017-11-13
+
+local_file_creation_date: 2017-10-16
+
+publication_doi: none
+
+dataset_release_date: 2017-11-29
+
+publication_title: none
+
+contributors: The International Peanut Genome Initiative; lead assembly group Jeremy Schmutz, Jerry Jenkins, Jane Grimwood; project leads David Bertioli; Soraya Bertioli; Brian Schleffler; Scott Jackson; Peggy Ozias-Akins
+
+data_curators: Ethalinda Cannon, Steven Cannon, Jerry Jenkins
+
+public_access_level: public
+
+license: Open, with usage agreement
+
+keywords: peanut, Arachis hypogaea, Tifrunner
+
+citations: [initial, provisional citation, pre-publication:] Arachis hypogaea cv Tifrunner genome, pre-publication
+
+file_transformation: 
+  - XX None
+
+changes: 
+  - 2018-03-02 generated Manifest files
+  - 2018-03-02 added prefix "arahy.Tifrunner.gnm1." to genome_main

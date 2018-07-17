@@ -1,0 +1,11 @@
+# files to not-track in Data Store collections
+_h5ai.*
+*.gz
+*.gzi
+*.html
+*.tbi
+*.xls
+*.xlsx
+*.doc
+*.docx
+*.fai

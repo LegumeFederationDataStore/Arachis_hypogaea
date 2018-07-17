@@ -1,0 +1,4 @@
+# filename_in_this_repository: description
+  arahy.Tifrunner.tcp1.sSQ6.mapped_to_A_genemodels.fna: List of transcripts mapped to A. duranesis (A) gene models
+  arahy.Tifrunner.tcp1.sSQ6.mapped_to_B_genemodels.fna: List of transcripts mapped to A. ipaensis (B) gene models
+  arahy.Tifrunner.tcp1.sSQ6.transcript_atlas.fna: Transcript assembly from above transcripts mapped to A and B gene models, concatenated together
