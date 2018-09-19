@@ -1,5 +1,5 @@
 #name in this repository                                   previous name
-  arahy.Tifrunner.tcp1.sSQ6.mapped_to_A_genemodels.fna: A.transcripts.mapped.to.genemodels.txt
-  arahy.Tifrunner.tcp1.sSQ6.mapped_to_B_genemodels.fna: B.transcripts.mapped.to.genemodels.txt
-  arahy.Tifrunner.tcp1.sSQ6.transcript_atlas.fna: Tifrunner.atlas.transcripts.sSQ6.fa
+arahy.Tifrunner.tcp1.sSQ6.mapped_to_A_genemodels.txt: A.transcripts.mapped.to.genemodels.txt
+arahy.Tifrunner.tcp1.sSQ6.mapped_to_B_genemodels.txt: B.transcripts.mapped.to.genemodels.txt
+arahy.Tifrunner.tcp1.sSQ6.transcript_atlas.fna: Tifrunner.atlas.transcripts.sSQ6.fa
 

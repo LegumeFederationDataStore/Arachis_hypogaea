@@ -51,5 +51,6 @@ file_transformation:
   - No transformations for the files above.
 
 changes: 
-  - 2018-04-17  Added MANIFEST files
-  - 2018-04-24  renamed files per Data Store patterns
+  - 2018-04-17 Added MANIFEST files
+  - 2018-04-24 Renamed files per Data Store patterns
+  - 2018-09-19 Renamed mapping tables from .fna to .txt
