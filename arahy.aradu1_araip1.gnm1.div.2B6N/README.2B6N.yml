@@ -1,0 +1,50 @@
+%YAML 1.2
+---
+identifier: 2B6N 
+
+provenance: Received from lead author of paper before publication.
+
+source: N/A 
+
+subject: Genotype data for US Peanut Mini Core collection.
+
+related_to: Genome assemblies aradu.V14167.gnm1 and araip.K30076.gnm1.
+
+scientific_name: Arachis hypogaea
+
+taxid: 3818
+
+scientific_name_abbrev: arahy
+
+genotype: N/A 
+
+description: Genotype data for US Peanut Mini Core collection collected via the 58K Affymetrix SNP array, Axiom_Arachis.
+
+dataset_doi: none
+
+original_file_creation_date: 2018-05-04
+
+local_file_creation_date: 2018-10-22
+
+publication_doi: none 
+
+dataset_release_date: 2018-10-26 
+
+publication_title: Evaluation of linkage disequilibrium, population structure, and genetic diversity in the U.S. peanut mini core collection 
+
+contributors: Paul I. Otyama, Andrew Wilkey, Roshan Kulkarni, Teshale Assefa, Ye Chu, Josh Clevenger, Dan O'Connor, Graeme Wright, Stanley W. Dezern, Gregory E. Macdonald, Noelle L. Anglin, Ethalinda K.S. Cannon, Peggy Ozias-Akins, Steven B. Cannon 
+
+data_curators: Ethy Cannon
+
+public_access_level: public
+
+license: open
+
+keywords: Linkage disequilibrium, Population structure, Phylogenetic network tree, Genetic diversity, Genome wide association. 
+
+citations: Paul I. Otyama, Andrew Wilkey, Roshan Kulkarni, Teshale Assefa, Ye Chu, Josh Clevenger, Dan O'Connor, Graeme Wright, Stanley W. Dezern, Gregory E. Macdonald, Noelle L. Anglin, Ethalinda K.S. Cannon, Peggy Ozias-Akins, Steven B. Cannon. Evaluation of linkage disequilibrium, population structure, and genetic diversity in the U.S. peanut mini core collection. Submitted.
+
+file_transformation:
+
+changes:
+
