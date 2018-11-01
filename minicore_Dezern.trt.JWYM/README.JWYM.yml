@@ -52,4 +52,5 @@ file_transformation:
   - arahy.mincore_Dezern.trt.JWYM.descriptors.xlsx: derived from raw phenotype data and thesis descriptions.
 
 changes:
+  11/01/18: arahy.mincore_Dezern.trt.JWYM.descriptors.xlsx - cleaned out internal logistical comments and removed 'study' worksheet
 
