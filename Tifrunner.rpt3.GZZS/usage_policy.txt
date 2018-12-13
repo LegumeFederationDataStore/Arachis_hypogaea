@@ -1,0 +1,12 @@
+Data Usage Policy for Arachis species repeat files
+
+These files are made available with the expectation and desire to 
+publish this data in a reasonable time without preemption by other groups. 
+By accessing these data, you agree not to publish any articles containing 
+analyses of genes or genomic data on a whole genome or chromosome scale 
+prior to publication by the Peanut Genome Consortium and/or its collaborators 
+of a comprehensive genome analysis ("Reserved Analyses")."
+
+For specific questions about data use please send your inquiry to Peanut 
+Genome Consortium via http://www.peanutbase.org/contact
+
