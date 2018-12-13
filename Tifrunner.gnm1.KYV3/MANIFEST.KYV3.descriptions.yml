@@ -1,6 +1,8 @@
 # filename_in_this_repository: description
-  arahy.Tifrunner.gnm1.KYV3.altHap.fna: XX
-  arahy.Tifrunner.gnm1.KYV3.genome_main.fna: Main genome assembly, consisting of pseudomolecules plus remaining unplaced scaffolds
-  arahy.Tifrunner.gnm1.KYV3.rDNA.fna: ribosomal DNA assemblies
-  arahy.Tifrunner.gnm1.KYV3.repeat.fna: repeat-dense scaffolds, excluded from the main assembly
-
+arahy.Tifrunner.gnm1.KYV3.altHap.fna: XX
+arahy.Tifrunner.gnm1.KYV3.genome_main.fna: Main genome assembly, consisting of pseudomolecules plus remaining unplaced scaffolds
+arahy.Tifrunner.gnm1.KYV3.rDNA.fna: ribosomal DNA assemblies
+arahy.Tifrunner.gnm1.KYV3.repeat.fna: repeat-dense scaffolds, excluded from the main assembly
+arahy.Tifrunner.gnm1.KYV3.genome_assignment.txt: Ancestral genome assignment of A. hypogaea. Method section describing the creation of this file (Supplementary Data 2) is "Inferring genetic exchange between subgenomes".
+arahy.Tifrunner.gnm1.KYV3.genome_softmasked.fna: Main genome assembly, soft-masked for repeats.
+arahy.Tifrunner.gnm1.KYV3.genome_repeatmask_coords.gff: Coordinates for masking main genome assembly.

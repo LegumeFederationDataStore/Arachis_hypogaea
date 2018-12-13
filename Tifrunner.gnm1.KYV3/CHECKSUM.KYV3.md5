@@ -1,11 +1,14 @@
-c223e558b757b4fea58ddd9f79fe5907 MANIFEST.KYV3.correspondence.yml
-652b4798d346a77db548f2b010187cb5 MANIFEST.KYV3.descriptions.yml
+9c5d60cbb89c1b0dcef13f5e421e2b26 MANIFEST.KYV3.correspondence.yml
+703442ba38581c851b3a43c154832696 MANIFEST.KYV3.descriptions.yml
 fc3fe9e78fd96ba93f765c41a7699b39 README.KYV3.yml
 6fb0dbbbc01f93dc01339f270e89c154 _h5ai.footers.html
 d6b5fd25b9043c28266c6177f1359feb arahy.Tifrunner.gnm1.KYV3.altHap.fna.gz
+b4c383fdef2e947a11f213c84bf3d079 arahy.Tifrunner.gnm1.KYV3.genome_assignment.txt.gz
 993bb62533b5e4efc78bb8815cb3dead arahy.Tifrunner.gnm1.KYV3.genome_main.fna.gz
 2706d5d2bf70e0f787f018c445da83a9 arahy.Tifrunner.gnm1.KYV3.genome_main.fna.gz.fai
 16e17c7f43d517bb322e7fcb62a94fd1 arahy.Tifrunner.gnm1.KYV3.genome_main.fna.gz.gzi
+82dfcc65977c33979bf9c71538f31f74 arahy.Tifrunner.gnm1.KYV3.genome_repeatmask_coords.gff.gz
+34c499a43ddc1c2df3c942f77da05add arahy.Tifrunner.gnm1.KYV3.genome_softmasked.fna.gz
 3a7fcc2307978471f7350fc94a08a951 arahy.Tifrunner.gnm1.KYV3.rDNA.fna.gz
 371b82d7f4bca52b54fb06333f185a2d arahy.Tifrunner.gnm1.KYV3.repeat.fna.gz
 a4d866896a95d0094d4e5361470ef01d original_README.txt
