@@ -1,0 +1,3 @@
+#filename in this repository                				description
+arahy.Tifrunner.gnm1.met1.5B59.methylation.bedgraph.bz2		Methylation (CG/CHG/CHH) of Tifrunner.gnm1 bedgraph format
+arahy.Tifrunner.gnm1.met1.5B59.methylation.cov.bz2			Methylation (CG/CHG/CHH) of Tifrunner.gnm1 coverage format
