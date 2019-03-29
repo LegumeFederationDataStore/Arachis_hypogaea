@@ -1,0 +1,11 @@
+%YAML 1.2
+#filename_in_this_repository   description
+Tifrunner.esm.TVDM.SD1_AB_gene_expression.tar.gz  Information on the expression of homeologous gene pairs.
+Tifrunner.esm.TVDM.SD2_Germplasm_key.xlsx  Key to germplasm used in the associated study - subspecies, accessions, BioProject IDs, notes.
+Tifrunner.esm.TVDM.SD3_Tifrunner.AB.base_assignment.txt.gz  Basecalls at assessed positions in tetraploid assembly, relative to inferred ancestral genome.
+Tifrunner.esm.TVDM.SD4_Structure_visualizations.tar.gz  Files used for the visualization of genome structure variations resulting from homeologous recombination between subgenomes, and deletions.
+Tifrunner.esm.TVDM.SD5_ABSNPcounts_WGS_diverse.tar.gz  Data for visualization of homeologous recombination based on SNPs assignable as A or B alleles.
+Tifrunner.esm.TVDM.SD6_IpaDur_OYflower_Genotypes.xlsx  Geno- and pheno-typing of 37 lineages of induced allotetraploids (A. ipaensis x A. duranensis)2n=4x=40
+Tifrunner.esm.TVDM.SD7_Adur_divergences_from_Asubgen.tar.gz  Percentage DNA sequence divergence of Arachis duranensis accessions in 10,000bp windows from the A subgenome of A. hypogaea cv. Tifrunner.
+Tifrunner.esm.TVDM.SD8_Genetic_maps_and_seqs.tar.gz Genetic maps and associated sequences that were used to break possible mis-joins in the initial assembly of the genome of A. hypogaea cv. Tifrunner.
+Tifrunner.esm.TVDM.SD9_Tifrunner_WGS_density_mapping.tar.gz  Mapping densities for short read whole genome sequence from Tifrunner onto -- the regions of the diploid sequences of A. duranensis V14167 and A. ipaensis K30076 that can be confidently assigned synteny; the preliminary genome assembly of Tifrunner; and the final genome assembly of Tifrunner.
