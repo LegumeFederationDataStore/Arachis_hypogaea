@@ -1,6 +1,6 @@
 identifier: CCJH
 
-provenance: The files in this directory are considered the primary instances, but they are also initial assembly versions, prior to deposition into GenBank - which will then become the primary, authoritative instances. The files here are held as part of the PeanutBase, LegumeInfo, and LegumeFederation projects. Please also see the associated usage_policy.txt Briefly: By accessing these data, you agree not to publish any articles containing analyses of genes or genomic data on a whole genome or chromosome scale prior to publication by the PGC and/or its collaborators of a comprehensive genome analysis ("Reserved Analyses"). See what is considered Reserved Analyses in the usage policy.
+provenance: he files in this directory are the initial assembly versions, provided here prior to deposition into GenBank. The GenBank version (GCF_003086295.1) is the primary, authoritative instance. The files here are held as part of the PeanutBase, LegumeInfo, and LegumeFederation projects.
 
 source: https://peanutbase.org/data/ and mirrored at LegumeInfo, LegumeFederation, and CyVerse
 
@@ -28,7 +28,7 @@ original_file_creation_date: 2018-02-15
 
 local_file_creation_date: 2018-02-15
 
-publication_doi: none
+publication_doi: 10.1038/s41588-019-0405-z
 
 dataset_release_date: 2018-02-15
 
@@ -38,17 +38,18 @@ contributors: The International Peanut Genome Initiative; lead assembly group Je
 
 data_curators: Steven Cannon 
 
-public_access_level: private
+public_access_level: public
 
-license: Open, with usage agreement
+license: open
 
 keywords: peanut, Arachis hypogaea, Tifrunner
 
-citations: [initial, provisional citation, pre-publication:] Arachis hypogaea cv Tifrunner genome, pre-publication
+citations: Bertioli et al., 2019; https://doi.org/10.1038/s41588-019-0405-z
 
 file_transformation: 
-  - XX None
+  - Added prefixes to GFF references and IDs
 
 changes: 
   - 2018-03-01 moved file lists into MANIFESTs
   - 2018-06-25 added descriptions file: arahy.Tifrunner.gnm1.ann1.CCJH.info_descriptors.txt - derived from gff3 file as follows: cat arahy.Tifrunner.gnm1.ann1.CCJH.gene_models_main.gff3 | awk '$3=="gene"' | grep "Name=" | grep Z7AAAI | perl -pe 's/%2C/,/g; s/%3B/;/g; s/%3D/=/g'
+  - 2019-05-20 Updated README to note publication

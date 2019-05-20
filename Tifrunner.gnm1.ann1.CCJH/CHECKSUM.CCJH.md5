@@ -1,6 +1,6 @@
-220dca9f33c6fa9005e786f3c7c31c44 MANIFEST.CCJH.correspondence.yml
-b5556c6e9f2ac1503b002cec54eafbb3 MANIFEST.CCJH.descriptions.yml
-20d2b153f9219128636b2e8eb2498c6c README.CCJH.yml
+f50217997543434ed1c6934864f2cee6 MANIFEST.CCJH.correspondence.yml
+5c818e6ecac5d8a670f7a98aee3a908a MANIFEST.CCJH.descriptions.yml
+33ca9d3b428b67d3b3583f96b169bbcc README.CCJH.yml
 d87955af546b8cd0d27dd8104ed8da4e arahy.Tifrunner.gnm1.ann1.CCJH.cds.fna.gz
 22b89a4a74a9c6d405ac66818322dc00 arahy.Tifrunner.gnm1.ann1.CCJH.cds_primaryTranscript.fna.gz
 650ab3a70011ee2ba116266d2bcf31c3 arahy.Tifrunner.gnm1.ann1.CCJH.gene_models_main.gff3.gz
@@ -10,4 +10,3 @@ d4818a6a66d93c8f9fb37a59800118a7 arahy.Tifrunner.gnm1.ann1.CCJH.protein.faa.gz
 78b30b4560e9105243e99c1595b9fe37 arahy.Tifrunner.gnm1.ann1.CCJH.protein_primaryTranscript.faa.gz
 23fbc1c3d7b40b1b0cc5b33942248113 arahy.Tifrunner.gnm1.ann1.CCJH.transcript.fna.gz
 b384859b805e8adcb0a590dd72dd9b4c arahy.Tifrunner.gnm1.ann1.CCJH.transcript_primaryTranscript.fna.gz
-2e9255cc03efea5a68042ded2796cd1f usage_policy.txt
