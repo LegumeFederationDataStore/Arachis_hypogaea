@@ -53,3 +53,4 @@ changes:
   - 2018-03-01 moved file lists into MANIFESTs
   - 2018-06-25 added descriptions file: arahy.Tifrunner.gnm1.ann1.CCJH.info_descriptors.txt - derived from gff3 file as follows: cat arahy.Tifrunner.gnm1.ann1.CCJH.gene_models_main.gff3 | awk '$3=="gene"' | grep "Name=" | grep Z7AAAI | perl -pe 's/%2C/,/g; s/%3B/;/g; s/%3D/=/g'
   - 2019-05-20 Updated README to note publication
+  - 2019-07-25 Updated GFF file to fix problem with parent names in exon records (second and subsequent names within an exon with multiple parents had incorect forms).
