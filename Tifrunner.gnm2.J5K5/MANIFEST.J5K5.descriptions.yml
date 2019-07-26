@@ -1,3 +1,6 @@
 # filename_in_this_repository: description
 arahy.Tifrunner.gnm1.J5K5.genome_main.fna : Main genome assembly, consisting of pseudomolecules plus remaining unplaced scaffolds
 arahy.Tifrunner.gnm2.J5K5.info_HiC_assembly.txt : HiC assembly file, describing scaffold/contig changes relative to gnm1
+arahy.Tifrunner.gnm2.J5K5.info_nucmer_coords: coordinates files from nucmer comparisons, at 100% identity, between gnm1 and gnm2 
+arahy.Tifrunner.gnm2.J5K5.info_nucmer_plots: plots from nucmer comparisons, at 100% identity, between gnm1 and gnm2
+
