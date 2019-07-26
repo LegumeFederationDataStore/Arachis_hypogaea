@@ -1,0 +1,56 @@
+%YAML 1.2
+---
+identifier: 4K0L
+
+provenance: The files in this directory are considered the primary instances. The files here are held as part of the PeanutBase, LegumeInfo, and LegumeFederation projects. 
+
+source: https://peanutbase.org/data/ and mirrored at LegumeInfo, LegumeFederation, and CyVerse
+
+subject: Gene models for genome assembly 2 for Arachis hypogaea, cultivar Tifrunner. 
+
+related_to: arahy.Tifrunner.gnm2.J5K5.genome_main.fna
+
+scientific_name: Arachis hypogaea
+
+taxid: 3818
+
+bioproject: PRJNA291488
+
+scientific_name_abbrev: arahy
+
+genotype: Tifrunner
+
+description: Genome annotation for Arachis hypogaea cultivar Tifrunner, assembly version 2 (Tifrunner.gnm2). Gene models (gene_models_main.gff3) have been projected from Tifrunner.gnm1 into Tifrunner.gnm2 using CrossMap and chain files derived from MUMmer comparisons between the respective assemblies. The CDS, protein, and transcript files are identical to those from Tifrunner.gnm1.ann1.CCJH. Gene model mappings are incomplete: 145 models could not be automatically projected into Tifrunner.gnm2 using CrossMap. See file arahy.Tifrunner.gnm2.ann1.4K0L.info_unmapped_models.txt for the listing of unmapped genes.
+
+dataset_doi: none
+
+genbank_accession: 
+
+original_file_creation_date: 2019-07-26
+
+local_file_creation_date: 2019-07-26
+
+publication_doi: 10.1038/s41588-019-0405-z
+
+dataset_release_date: 2019-07-26
+
+publication_title: The genome sequence of segmental allotetraploid peanut Arachis hypogaea
+
+contributors: The International Peanut Genome Initiative; lead assembly group Jeremy Schmutz, Jerry Jenkins, Jane Grimwood; project leads David Bertioli; Soraya Bertioli; Brian Schleffler; Scott Jackson; Peggy Ozias-Akins; HiC assessments and corrections: Melanie Pham, Olga Dudchenko; Erez Lieberman Aiden lab. Projection of gene models from Tifrunner.gnm1 into Tifrunner.gnm2: Steven Cannon.
+
+data_curators: Ethalinda Cannon, Steven Cannon
+
+public_access_level: public
+
+license: Open
+
+keywords: peanut, Arachis hypogaea, Tifrunner
+
+citations: Bertioli et al., 2019; https://www.nature.com/articles/s41588-019-0405-z
+
+file_transformation: 
+  - 2019-07-26 finished CrossMap projections from gnm1 into gnm2. See file crossmap_arahy_v05.sh for details (S. Cannon)
+
+changes: 
+  - 2018-07-26 Initial repository preparation
+

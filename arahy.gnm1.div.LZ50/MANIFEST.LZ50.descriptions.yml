@@ -1,0 +1,6 @@
+%YAML 1.2
+---
+#filename in this repository: description
+arahy.gnm1.div.LZ50.snp_chip.flapjack.gz: Genotype data in Flapjack format
+arahy.gnm1.div.LZ50.snp_ship.hmp.gz: Genotype data in HapMap format
+

@@ -1,0 +1,12 @@
+# filename_in_this_repository: description
+arahy.Tifrunner.gnm2.ann1.4K0L.cds.fna: coding sequence
+arahy.Tifrunner.gnm2.ann1.4K0L.cds_primaryTranscript.fna: coding sequence: longest splice variant per gene
+arahy.Tifrunner.gnm2.ann1.4K0L.gene_models_main.gff3: gene models from gnm1.ann1, mapped into gnm2
+arahy.Tifrunner.gnm2.ann1.4K0L.info_descriptors.txt: functional descriptions, derived from gene_models_main.gff3; carried over from gnm1.ann1
+arahy.Tifrunner.gnm2.ann1.4K0L.info_fwd_chain.txt: chain-file, derived from MUMmer, used with CrossMap to project gene models into gnm2; forward-forward models
+arahy.Tifrunner.gnm2.ann1.4K0L.info_rev_chain.txt: chain-file, derived from MUMmer, used with CrossMap to project gene models into gnm2; forward-forward models
+arahy.Tifrunner.gnm2.ann1.4K0L.info_unmapped_models.txt: gene models that were not mapped from gnm1 to gnm2
+arahy.Tifrunner.gnm2.ann1.4K0L.protein.faa: protein sequence
+arahy.Tifrunner.gnm2.ann1.4K0L.protein_primaryTranscript.faa: protein sequence: longest splice variant per gene
+arahy.Tifrunner.gnm2.ann1.4K0L.transcript.fna: transcript sequence
+arahy.Tifrunner.gnm2.ann1.4K0L.transcript_primaryTranscript.fna: transcript sequence: longest splice variant per gene
