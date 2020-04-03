@@ -58,3 +58,6 @@ file_transformation:
 
 changes:
   - 2019-06-18 Initial repository creation
+  - 2019-12-20 arahy.gnm1.div.LZ50.snp_chip.hmp.gz file changed. IDs were modified to avoid parsing error during Gigwa loading.
+  - TODO: arahy.gnm1.div.LZ50.snp_chip.flapjack.gz need to be replaced by another transformation from the recent '2019-12-20 arahy.gnm1.div.LZ50.snp_chip.hmp.gz'
+  
