@@ -53,4 +53,31 @@ file_transformation:
 
 changes: 
   - 2018-07-26 Initial repository preparation
+  - 2020-04-21 Corrected GFF and fasta files to deal with 26 gene models that were duplicated in gnm2.ann1 relative to gnm1.ann1 (24 on 05 and 12 and one on 03 and 13). The previously duplicated models have been renamed on the following chromosomes. The ID modification differs from the original ID string by the last character (changing to Z or 0).
+    - Arahy.13 from M66GIB to M66GIZ
+    - Arahy.05 from D5QJZZ to D5QJZ0
+    - Arahy.05 from Y72RXW to Y72RXZ
+    - Arahy.05 from D1YXCG to D1YXCZ
+    - Arahy.05 from PL6VNF to PL6VNZ
+    - Arahy.05 from PFH739 to PFH73Z
+    - Arahy.05 from E9WDF1 to E9WDFZ
+    - Arahy.05 from V1AVP1 to V1AVPZ
+    - Arahy.05 from C24P33 to C24P3Z
+    - Arahy.05 from 2XVX2B to 2XVX2Z
+    - Arahy.05 from ZIF87W to ZIF87Z
+    - Arahy.05 from 942P0F to 942P0Z
+    - Arahy.05 from NRP8RH to NRP8RZ
+    - Arahy.05 from C3UJQ4 to C3UJQZ
+    - Arahy.05 from 10QJ8K to 10QJ8Z
+    - Arahy.05 from VRT43M to VRT43Z
+    - Arahy.05 from 9RVJ5A to 9RVJ5Z
+    - Arahy.05 from XEJ3YL to XEJ3YZ
+    - Arahy.05 from FJ4QJG to FJ4QJZ
+    - Arahy.05 from 1M918L to 1M918Z
+    - Arahy.05 from T4T98J to T4T98Z
+    - Arahy.05 from 60JIWJ to 60JIWZ
+    - Arahy.05 from 3C43J1 to 3C43JZ
+    - Arahy.05 from X4R883 to X4R88Z
+    - Arahy.05 from 56DA4Y to 56DA4Z
+    - Arahy.05 from 6M2V35 to 6M2V3Z
 
