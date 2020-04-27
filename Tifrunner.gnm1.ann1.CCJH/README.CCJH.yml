@@ -55,3 +55,4 @@ changes:
   - 2019-05-20 Updated README to note publication
   - 2019-07-25 Updated GFF file to fix problem with parent names in exon records (second and subsequent names within an exon with multiple parents had incorect forms).
   - 2020-04-03 adf updated GFF file to fix lingering issues with shared exons and suppressed transcripts reported by user
+  - 2020-04-27 use bgzip+samtools faidx for derived fastas
