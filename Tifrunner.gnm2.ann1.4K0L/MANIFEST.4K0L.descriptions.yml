@@ -10,3 +10,4 @@ arahy.Tifrunner.gnm2.ann1.4K0L.protein.faa: protein sequence
 arahy.Tifrunner.gnm2.ann1.4K0L.protein_primaryTranscript.faa: protein sequence: longest splice variant per gene
 arahy.Tifrunner.gnm2.ann1.4K0L.transcript.fna: transcript sequence
 arahy.Tifrunner.gnm2.ann1.4K0L.transcript_primaryTranscript.fna: transcript sequence: longest splice variant per gene
+arahy.Tifrunner.gnm2.ann1.4K0L.legfed_v1_0.M65K.gfa.tsv.gz: Gene family assignments

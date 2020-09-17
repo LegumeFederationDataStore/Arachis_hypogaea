@@ -1,15 +1,17 @@
 1d9335bca27350b2d924434de8b39b4a ./arahy.Tifrunner.gnm2.ann1.4K0L.transcript_primaryTranscript.fna.gz
 5cf1f5c9bc45193bdde564b22b269913 ./arahy.Tifrunner.gnm2.ann1.4K0L.transcript.fna.gz.fai
 3ce855c5720f9b1a9841f7ec332b2a66 ./arahy.Tifrunner.gnm2.ann1.4K0L.cds_primaryTranscript.fna.gz.fai
+f1764f4d9dc2a9b2e3ed33569b793f1a ./arahy.Tifrunner.gnm2.ann1.4K0L.legfed_v1_0.M65K.gfa.tsv.gz
 cd5e216ee7ddb0ff9d8ba01c176f8094 ./arahy.Tifrunner.gnm2.ann1.4K0L.protein.faa.gz.gzi
 c15f3392a746eedfb3c49e28fe3d93d5 ./arahy.Tifrunner.gnm2.ann1.4K0L.cds.fna.gz.fai
 394e12a540458fd4d8bb2ab916d17c98 ./arahy.Tifrunner.gnm2.ann1.4K0L.transcript_primaryTranscript.fna.gz.gzi
-96c83d4ba4037718bd852f727e21a068 ./MANIFEST.4K0L.descriptions.yml
+47413535fa4fe41a2058a09860a8f47c ./MANIFEST.4K0L.descriptions.yml
 c84f3d2a2f1717f97ec0abe1eb0026b7 ./arahy.Tifrunner.gnm2.ann1.4K0L.gene_models_main.gff3.gz
 d41d8cd98f00b204e9800998ecf8427e ./CHECKSUM.4K0L.md5
 bcfc76910d3bca7120a2b379b6130b15 ./MANIFEST.4K0L.correspondence.yml
 e1b2103fe872d014929f0cce07952e41 ./arahy.Tifrunner.gnm2.ann1.4K0L.protein_primaryTranscript.faa.gz.fai
 0eaa66669d73f29687a45858b9ea52dc ./arahy.Tifrunner.gnm2.ann1.4K0L.info_descriptors.txt.gz
+8a702a75f86dd677ab65c4b75fdeda52 ./.nfs.422c96fd.ffff8cd84.4
 ba1a7a9714091252de6cf84b554e4f11 ./arahy.Tifrunner.gnm2.ann1.4K0L.info_fwd_chain.txt.gz
 926aee7675f5e97cd5d21553d1b1962c ./arahy.Tifrunner.gnm2.ann1.4K0L.gene_models_main.gff3.gz.tbi
 cacd9afb0c5d04354ca391f991834a48 ./arahy.Tifrunner.gnm2.ann1.4K0L.protein_primaryTranscript.faa.gz
@@ -21,7 +23,7 @@ b93e760b45f38cf31c561bac64b3d808 ./arahy.Tifrunner.gnm2.ann1.4K0L.transcript_pri
 5c0714846443ba0849b88706a49ae4ae ./arahy.Tifrunner.gnm2.ann1.4K0L.protein.faa.gz.fai
 0721ba71c36882e309de6f6e96911646 ./arahy.Tifrunner.gnm2.ann1.4K0L.protein.faa.gz
 b0199fff213e1aa037613c4fc628b076 ./arahy.Tifrunner.gnm2.ann1.4K0L.cds_primaryTranscript.fna.gz
-00326a493c9b23083d3e0e181cb0ae82 ./README.4K0L.yml
+319ac111fa376bc0b4ea2ace6d2db64f ./README.4K0L.yml
 eab5fba97b79e5bd0197109aba0c8afd ./ann1_v0_error/arahy.Tifrunner.gnm2.ann1.4K0L.protein.faa.gz
 6169bb187fa7ef7a2fe62c41c9700154 ./ann1_v0_error/arahy.Tifrunner.gnm2.ann1.4K0L.info_descriptors.txt.gz
 d3defe32f9adaff60221f6bdada37b3d ./ann1_v0_error/arahy.Tifrunner.gnm2.ann1.4K0L.transcript.fna.gz
